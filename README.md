@@ -40,7 +40,7 @@ _💬  I do have strong maths knowledge and logical problem solving skills._
 
 
 
-### from the age of 20 years old proving  ## my capabilities working as a player of a team or on my own.
+### from the age of 20 years old proving my capabilities working as a player of a team or on my own.
 
 
 <details>
