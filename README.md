@@ -58,7 +58,7 @@ _💬  I do have strong maths knowledge and logical problem solving skills._
 
 
 
-### 📫You can get in touch with me on the phone num: 07376001464 
+### 📫You can get in touch with me on the phone num:  
   ###                      or via email: emmanuelsp10@hotmail.conm 
 
 <!--
