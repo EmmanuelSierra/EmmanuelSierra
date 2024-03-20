@@ -1,37 +1,80 @@
 # Dear reader,
 ## I am currently learning and coursing:
-_Skills Bootcamp in Software Engineering (Fundamentals) at HyperionDev⚡._
-
-## Although I'm in transition to the tech industry,
-_💬  I do have strong maths knowledge and logical problem solving skills._ 
-
-###
+# _Skills Bootcamp in Software Engineering (Fundamentals) at HyperionDev⚡._
 
 
+### I am often adding new projects🔭to my profile, so please don't hesitate to ask for collaborations.
+
+# Currently Project Name
+byb_project
+
+## Description
+This project aims to output all knowledge gained from the course. 
 
 
-
-
-
-
-
-
-
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="">
-</picture>
-
-
+## Table of contents
+* [Screenshots](#screenshots)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Code Examples](#code-examples)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [License](#license)
+* [Contact](#contact)
 
 
 
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+
+## Installation
+To get started with the project, follow these steps:
+
+1. Clone the repository: git clone <repository-url>
+2. Install dependencies: npm install
+
+
+## Usage
+
+
+## Contributing
+Contributions are more than welcome from the community. To contribute to 
+the project, follow these guidelines:
+
+Fork the repository.
+1. Create a new branch: git checkout -b new-feature
+2. Make your changes and commit them: git commit -m 'Add 
+new feature'
+3. Push to the branch: git push origin new-feature
+4. Submit a pull request.
+
+
+## Code Examples
 
 
 
+## Features
+* Feature 1
+* Feature 2
+* Feature 3
 
+To-do list:
+* Improvement to be done 1
+* Improvement to be done 2
+
+
+
+## Status
+Project is: _in progress_, _finished_, _no longer continue_ and 
+why?
+
+## Inspiration
+
+## License
+This project is licensed under the [license name]. Refer to the 
+LICENSE file for more details.
 
 
 
@@ -39,7 +82,7 @@ _💬  I do have strong maths knowledge and logical problem solving skills._
 
 
 <details>
-<summary>My top languages</summary>
+ ## <summary>My top languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
@@ -47,13 +90,18 @@ _💬  I do have strong maths knowledge and logical problem solving skills._
 |     2| JavaScript|
 
 
-
-
 </details>
 
 
 
-### 📫You can get in touch with via email: emmanuelsp10@hotmail.conm 
+## 📫 Contact
+### You can get in touch with me via email: [emmanuelsp10@hotmail.com] 
+
+#
+**This README file provides a brief overview of the project,** 
+**installation instructions, usage guidelines, contribution** 
+**guidelines, licensing information, and contact details.**
+
 
 <!--
 **EmmanuelSierra/EmmanuelSierra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
