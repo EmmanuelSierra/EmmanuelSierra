@@ -1,6 +1,15 @@
 # Dear reader,
-## I am currently learning and coursing:
-# _Skills Bootcamp in Software Engineering (Fundamentals) at HyperionDev⚡._
+ I am currently learning and coursing:
+# _Skills Bootcamp in Software Engineering (Fundamentals) ⚡ At_
+
+
+
+<picture>
+ <source media="(prefers-color-scheme: light)" src="https://cdn1.vc4a.com/media/2022/01/CoGrammarXHyperion_Transparent-761x322.png">
+ <source media="(prefers-color-scheme: dark)" src="https://cdn1.vc4a.com/media/2022/01/CoGrammarXHyperion_Transparent-761x322.png">
+ <img alt="shortcut icon" src="https://cdn1.vc4a.com/media/2022/01/CoGrammarXHyperion_Transparent-761x322.png">
+</picture>
+
 
 
 ### I am often adding new projects🔭to my profile, so please don't hesitate to ask for collaborations.
