@@ -12,8 +12,6 @@
 
 
 
-### I am often adding new projects 🔭 to my profile, so please don't hesitate to ask for collaborations.
-
 # Currently Project Name
 byb_project
 
